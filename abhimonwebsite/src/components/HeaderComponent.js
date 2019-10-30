@@ -37,10 +37,10 @@ class Header extends Component {
                                 <NavLink className="nav-link"  to='/home'><span className="fa fa-home fa-lg"></span> Home</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="nav-link" to='/instagram'><span className="fa fa-info fa-lg"></span> Instagram</NavLink>
+                                <NavLink className="nav-link" to='/instagram'><span className="fa fa-instagram fa-lg"></span> Instagram</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="nav-link"  to='/resume'><span className="fa fa-list fa-lg"></span> Resume</NavLink>
+                                <NavLink className="nav-link"  to='/resume'><span className="fa fa-file fa-lg"></span> Resume</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink className="nav-link" to='/contact'><span className="fa fa-address-card fa-lg"></span> Contact</NavLink>
@@ -53,7 +53,7 @@ class Header extends Component {
            <div className="container">
                <div className="row row-header">
                    <div className="col-12 col-sm-6">
-                       <h1 className="homeTitle">ABHISHEK MONDAL</h1>
+                       <h1 className="homeTitle">ABHISHEK <span className="redColor">MONDAL</span></h1>
                        <p>I take inspiration from the World's best resources, and create a unique fusion experience. My lipsmacking creations will tickle your designing senses!</p>
                    </div>
                </div>
