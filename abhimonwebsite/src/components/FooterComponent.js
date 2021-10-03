@@ -20,7 +20,7 @@ function Footer(props) {
 		              aasd adad<br />
 		              saddadsad<br />
 		              adadad<br />
-		              <i className="fa fa-phone fa-lg"></i>: +91-7606928207<br />
+		              {/* <i className="fa fa-phone fa-lg"></i>: +91-7606928207<br /> */}
 		              <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:abhitechmon@gmail">
                          confusion@food.net</a>
                     </address>
@@ -38,7 +38,7 @@ function Footer(props) {
             </div>
             <div className="row justify-content-center">             
                 <div className="col-auto">
-                    <p>© Copyright 2019 | Made by Abhishek Mondal with o</p>
+                    <p>© Copyright 2021 | Made by Abhishek Mondal with o</p>
                 </div>
             </div>
         </div>
